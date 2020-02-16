@@ -499,7 +499,6 @@
         'Diffractive Laser': 'Diffraktiver Laser',
         'Diffractive Plasma': 'Diffusionsplasma',
         'Electric Pulse': 'Elektrischer Impuls',
-        'Enrage': 'Finalangriff',
         'Explosion': 'Explosion',
         'Ink': 'Tinte',
         'Interrupt Stoneskin': 'Steinhaut unterbrechen',
@@ -584,7 +583,6 @@
         'Diffractive Laser': 'Laser diffracteur',
         'Diffractive Plasma': 'Plasma diffracteur',
         'Electric Pulse': 'Impulsion électrique',
-        'Enrage': 'Enrage',
         'Explosion': 'Explosion',
         'Ink': 'Encre',
         'Interrupt Stoneskin': 'Interrompre Cuirasse',
@@ -669,7 +667,6 @@
         'Diffractive Laser': '拡散レーザー',
         'Diffractive Plasma': '拡散プラズマ',
         'Electric Pulse': 'エレクトリックパルス',
-        'Enrage': 'Enrage',
         'Explosion': '爆発',
         'Ink': '墨',
         'Interrupt Stoneskin': 'Interrupt Stoneskin', // FIXME
@@ -754,7 +751,6 @@
         'Diffractive Laser': '扩散射线',
         'Diffractive Plasma': '扩散离子',
         'Electric Pulse': '电磁脉冲',
-        'Enrage': 'Enrage', // FIXME
         'Explosion': '爆炸',
         'Ink': '墨汁',
         'Interrupt Stoneskin': 'Interrupt Stoneskin', // FIXME
@@ -839,7 +835,6 @@
         'Diffractive Laser': '확산 레이저',
         'Diffractive Plasma': '확산 플라스마',
         'Electric Pulse': '전기 충격',
-        'Enrage': '전멸기',
         'Explosion': '폭발',
         'Ink': '먹물',
         'Interrupt Stoneskin': '스톤스킨 취소됨',

@@ -1063,7 +1063,6 @@
         'Dualcast': 'Doppelzauber',
         'Earth Shaker': 'Erdstoß',
         'Emptiness': 'Tobende Leere',
-        'Enrage': 'Finalangriff',
         'Final Battle': 'Final Battle', // FIXME
         'Fire III': 'Feuga',
         'Flare': 'Flare',
@@ -1128,7 +1127,6 @@
         'Dualcast': 'Chaîne de sorts',
         'Earth Shaker': 'Secousse',
         'Emptiness': 'Désolation du néant',
-        'Enrage': 'Enrage',
         'Final Battle': 'Final Battle', // FIXME
         'Fire III': 'Méga Feu',
         'Flare': 'Brasier',
@@ -1193,7 +1191,6 @@
         'Dualcast': '連続魔',
         'Earth Shaker': 'アースシェイカー',
         'Emptiness': '無の暴走',
-        'Enrage': 'Enrage',
         'Final Battle': 'Final Battle', // FIXME
         'Fire III': 'ファイガ',
         'Flare': 'フレア',
@@ -1258,7 +1255,6 @@
         'Dualcast': '连续咏唱',
         'Earth Shaker': '大地摇动',
         'Emptiness': '无之失控',
-        'Enrage': 'Enrage', // FIXME
         'Final Battle': 'Final Battle', // FIXME
         'Fire III': '爆炎',
         'Flare': '核爆',
@@ -1323,7 +1319,6 @@
         'Dualcast': '연속 마법',
         'Earth Shaker': '요동치는 대지',
         'Emptiness': '무의 폭주',
-        'Enrage': 'Enrage', // FIXME
         'Final Battle': 'Final Battle', // FIXME
         'Fire III': '파이가',
         'Flare': '플레어',

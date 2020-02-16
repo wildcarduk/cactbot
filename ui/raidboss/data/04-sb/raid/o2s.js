@@ -313,7 +313,6 @@
         'Death\'s Gaze': 'Todesblick',
         'Double Stack': 'Double Stack', // FIXME
         'Earthquake': 'Erdbeben',
-        'Enrage': 'Finalangriff',
         'Epicenter': 'Epizentrum',
         'Erosion': 'Erosion',
         'Evilsphere': 'Sphäre des Bösen',
@@ -358,7 +357,6 @@
         'Death\'s Gaze': 'Œil de la Mort',
         'Double Stack': 'Double Stack', // FIXME
         'Earthquake': 'Grand séisme',
-        'Enrage': 'Enrage',
         'Epicenter': 'Épicentre',
         'Erosion': 'Érosion',
         'Evilsphere': 'Sphère démoniaque',
@@ -403,7 +401,6 @@
         'Death\'s Gaze': '死神の瞳',
         'Double Stack': 'Double Stack', // FIXME
         'Earthquake': '大地震',
-        'Enrage': 'Enrage',
         'Epicenter': '震源生成',
         'Erosion': '浸食',
         'Evilsphere': 'イビルスフィア',
@@ -448,7 +445,6 @@
         'Death\'s Gaze': '死神之瞳',
         'Double Stack': 'Double Stack', // FIXME
         'Earthquake': '大地震',
-        'Enrage': 'Enrage', // FIXME
         'Epicenter': '震源制造',
         'Erosion': '侵入',
         'Evilsphere': '邪球',
@@ -493,7 +489,6 @@
         'Death\'s Gaze': '사신의 눈동자',
         'Double Stack': 'Double Stack', // FIXME
         'Earthquake': '대지진',
-        'Enrage': 'Enrage', // FIXME
         'Epicenter': '진원 생성',
         'Erosion': '침식',
         'Evilsphere': '악의 세력권',

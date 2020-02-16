@@ -666,7 +666,6 @@
         'Dragonflight': 'Drachenflug',
         'Earth Breath': 'Erdatem',
         'Earthen Fury': 'Gaias Zorn',
-        'Enrage': 'Finalangriff',
         'Fireball': 'Feuerball',
         'First Wing': 'Erster Flügel',
         'Gyre Charge': 'Wirbel-Aufladung',
@@ -749,7 +748,6 @@
         'Dragonflight': 'Vol du dragon',
         'Earth Breath': 'Souffle de terre',
         'Earthen Fury': 'Fureur tellurique',
-        'Enrage': 'Enrage',
         'Fireball': 'Boule de feu',
         'First Wing': 'First Wing', // FIXME
         'Gyre Charge': 'Gyrocharge',
@@ -832,7 +830,6 @@
         'Dragonflight': '昇竜',
         'Earth Breath': 'アースブレス',
         'Earthen Fury': '大地の怒り',
-        'Enrage': 'Enrage',
         'Fireball': 'ファイアボール',
         'First Wing': 'First Wing', // FIXME
         'Gyre Charge': 'ジャイヤチャージ',
@@ -915,7 +912,6 @@
         'Dragonflight': '龙腾',
         'Earth Breath': '大地吐息',
         'Earthen Fury': '大地之怒',
-        'Enrage': 'Enrage', // FIXME
         'Fireball': '火球',
         'First Wing': 'First Wing', // FIXME
         'Gyre Charge': '螺旋冲锋',
@@ -998,7 +994,6 @@
         'Dragonflight': '용의 비행',
         'Earth Breath': '대지의 숨결',
         'Earthen Fury': '대지의 분노',
-        'Enrage': '전멸기',
         'Fireball': '화염구',
         'First Wing': 'First Wing', // FIXME
         'Gyre Charge': '회전 돌진',

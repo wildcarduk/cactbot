@@ -170,7 +170,6 @@
         'Diabolic Wind': 'Diabolischer Wind',
         'Doom Strike': 'Vernichtungsschlag',
         'Encumber': 'Wegsperrung',
-        'Enrage': 'Finalangriff',
         'Ghosts spawn': 'Geister erscheinen',
         'Head On': 'Frontalangriff',
         'Knockback Whistle': 'Rückstoß Pfeife',
@@ -211,7 +210,6 @@
         'Diabolic Wind': 'Vent diabolique',
         'Doom Strike': 'Frappe létale',
         'Encumber': 'Encombrement',
-        'Enrage': 'Enrage',
         'Ghosts spawn': 'Pop des Fantômes',
         'Head On': 'Plein fouet',
         'Knockback Whistle': 'Knockback Whistle', // FIXME
@@ -252,7 +250,6 @@
         'Diabolic Wind': '魔界の風',
         'Doom Strike': '魔霊撃',
         'Encumber': '進路妨害',
-        'Enrage': 'Enrage',
         'Ghosts spawn': 'Ghosts spawn', // FIXME
         'Head On': '追突',
         'Knockback Whistle': 'Knockback Whistle', // FIXME
@@ -293,7 +290,6 @@
         'Diabolic Wind': '魔界风',
         'Doom Strike': '魔灵击',
         'Encumber': '挡路',
-        'Enrage': 'Enrage', // FIXME
         'Ghosts spawn': 'Ghosts spawn', // FIXME
         'Head On': '追尾',
         'Knockback Whistle': 'Knockback Whistle', // FIXME
@@ -334,7 +330,6 @@
         'Diabolic Wind': '마계의 바람',
         'Doom Strike': '마령격',
         'Encumber': '진로 방해',
-        'Enrage': 'Enrage', // FIXME
         'Ghosts spawn': 'Ghosts spawn', // FIXME
         'Head On': '추돌',
         'Knockback Whistle': 'Knockback Whistle', // FIXME
