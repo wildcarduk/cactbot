@@ -1938,7 +1938,6 @@
       },
       'replaceText': {
         '--push--': '--stoß--',
-        '--targetable--': '--anvisierbar--',
         '--untargetable--': '--nich anvisierbar--',
         'Aetheric Profusion': 'Ätherische Profusion',
         'Akh Morn': 'Akh Morn',
@@ -2045,7 +2044,6 @@
       },
       'replaceText': {
         '--push--': '--Poussé(e)--',
-        '--targetable--': '--Ciblable--',
         '--untargetable--': '--Impossible à cibler--',
         'Aetheric Profusion': 'Excès d\'éther',
         'Akh Morn': 'Akh Morn',
@@ -2152,7 +2150,6 @@
       },
       'replaceText': {
         '--push--': '--push--', // FIXME
-        '--targetable--': '--targetable--',
         '--untargetable--': '--untargetable--',
         'Aetheric Profusion': 'エーテリックプロフュージョン',
         'Akh Morn': 'アク・モーン',
@@ -2259,7 +2256,6 @@
       },
       'replaceText': {
         '--push--': '--push--', // FIXME
-        '--targetable--': '--可选中--',
         '--untargetable--': '--不可选中--',
         'Aetheric Profusion': '以太失控',
         'Akh Morn': '死亡轮回',
@@ -2366,7 +2362,6 @@
       },
       'replaceText': {
         '--push--': '--최소 RDPS컷--',
-        '--targetable--': '--타겟 가능--',
         '--untargetable--': '--타겟 불가--',
         'Aetheric Profusion': '에테르 홍수',
         'Akh Morn': '아크 몬',

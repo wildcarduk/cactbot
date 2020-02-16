@@ -482,7 +482,6 @@
         'WEAPON SYSTEMS ONLINE': 'Feuerkontrollsystem aktiviert',
       },
       'replaceText': {
-        '--targetable--': '--anvisierbar--',
         '--untargetable--': '--nich anvisierbar--',
         'Aether Rot': 'Ätherfäule',
         'Arm And Hammer': 'Arm-Hammer',
@@ -566,7 +565,6 @@
         'WEAPON SYSTEMS ONLINE': 'Démarrage du système de contrôle... Activation du programme initial... Gardien, au combat',
       },
       'replaceText': {
-        '--targetable--': '--Ciblable--',
         '--untargetable--': '--Impossible à cibler--',
         'Aether Rot': 'Pourriture éthéréenne',
         'Arm And Hammer': 'Marteau stratégique',
@@ -650,7 +648,6 @@
         'WEAPON SYSTEMS ONLINE': 'WEAPON SYSTEMS ONLINE', // FIXME
       },
       'replaceText': {
-        '--targetable--': '--targetable--',
         '--untargetable--': '--untargetable--',
         'Aether Rot': 'エーテルロット',
         'Arm And Hammer': 'アームハンマー',
@@ -734,7 +731,6 @@
         'WEAPON SYSTEMS ONLINE': 'WEAPON SYSTEMS ONLINE', // FIXME
       },
       'replaceText': {
-        '--targetable--': '--targetable--', // FIXME
         '--untargetable--': '--untargetable--', // FIXME
         'Aether Rot': '以太病毒',
         'Arm And Hammer': '臂锤',
@@ -818,7 +814,6 @@
         'WEAPON SYSTEMS ONLINE': 'WEAPON SYSTEMS ONLINE', // FIXME
       },
       'replaceText': {
-        '--targetable--': '--대상 지정 가능--',
         '--untargetable--': '--대상 지정 불가--',
         'Aether Rot': '에테르 부패',
         'Arm And Hammer': '양팔 내리치기',

@@ -123,7 +123,6 @@
         'Wroth Ghost': 'erzürnt(?:e|er|es|en) Geist',
       },
       'replaceText': {
-        '--targetable--': '--anvisierbar--',
         '--untargetable--': '--nich anvisierbar--',
         'Acid Rain': 'Säureregen',
         'Add Wave': 'Add Welle',
@@ -162,7 +161,6 @@
         'Wroth Ghost': 'fantôme furieux',
       },
       'replaceText': {
-        '--targetable--': '--Ciblable--',
         '--untargetable--': '--Impossible à cibler--',
         'Acid Rain': 'Pluie acide',
         'Add Wave': 'Vague d\'Adds',
@@ -201,7 +199,6 @@
         'Wroth Ghost': 'ロスゴースト',
       },
       'replaceText': {
-        '--targetable--': '--targetable--',
         '--untargetable--': '--untargetable--',
         'Acid Rain': '酸性雨',
         'Add Wave': 'Add Wave', // FIXME
@@ -240,7 +237,6 @@
         'Wroth Ghost': '怒灵',
       },
       'replaceText': {
-        '--targetable--': '--targetable--', // FIXME
         '--untargetable--': '--untargetable--', // FIXME
         'Acid Rain': '酸雨',
         'Add Wave': 'Add Wave', // FIXME
@@ -279,7 +275,6 @@
         'Wroth Ghost': '격노하는 유령',
       },
       'replaceText': {
-        '--targetable--': '--targetable--', // FIXME
         '--untargetable--': '--untargetable--', // FIXME
         'Acid Rain': '산성비',
         'Add Wave': 'Add Wave', // FIXME

@@ -337,7 +337,6 @@
         'Tsukuyomi': 'Tsukuyomi',
       },
       'replaceText': {
-        '--targetable--': '--anvisierbar--',
         '--untargetable--': '--nich anvisierbar--',
         'Antitwilight': 'Schönheit der Nacht',
         'Bright Blade': 'Helle Klinge',
@@ -407,7 +406,6 @@
         'Tsukuyomi': 'Tsukuyomi',
       },
       'replaceText': {
-        '--targetable--': '--Ciblable--',
         '--untargetable--': '--Impossible à cibler--',
         'Antitwilight': 'Belle-de-nuit',
         'Bright Blade': 'Lame blafarde',
@@ -477,7 +475,6 @@
         'Tsukuyomi': 'ツクヨミ',
       },
       'replaceText': {
-        '--targetable--': '--targetable--',
         '--untargetable--': '--untargetable--',
         'Antitwilight': '月下美人',
         'Bright Blade': '月刀左近',
@@ -547,7 +544,6 @@
         'Tsukuyomi': '月读',
       },
       'replaceText': {
-        '--targetable--': '--可选中--',
         '--untargetable--': '--不可选中--',
         'Antitwilight': '月下美人',
         'Bright Blade': '月刀左斩',
@@ -617,7 +613,6 @@
         'Tsukuyomi': '츠쿠요미',
       },
       'replaceText': {
-        '--targetable--': '--대상 지정 가능--',
         '--untargetable--': '--대상 지정 불가--',
         'Antitwilight': '월하미인',
         'Bright Blade': '하현달 베기',

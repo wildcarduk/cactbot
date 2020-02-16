@@ -251,7 +251,6 @@
       },
       'replaceText': {
         '/dance': '/tanz',
-        '--targetable--': '--anvisierbar--',
         '--untargetable--': '--nich anvisierbar--',
         'Adds Appear': 'Adds Appear', // FIXME
         'Aether Drain': 'Ätherabsorption',
@@ -298,7 +297,6 @@
       },
       'replaceText': {
         '/dance': '/danser',
-        '--targetable--': '--Ciblable--',
         '--untargetable--': '--Impossible à cibler--',
         'Adds Appear': 'Adds Appear', // FIXME
         'Aether Drain': 'Absorption d\'éther',
@@ -345,7 +343,6 @@
       },
       'replaceText': {
         '/dance': '/dance', // FIXME
-        '--targetable--': '--targetable--',
         '--untargetable--': '--untargetable--',
         'Adds Appear': 'Adds Appear', // FIXME
         'Aether Drain': 'エーテル吸収',
@@ -392,7 +389,6 @@
       },
       'replaceText': {
         '/dance': '/跳舞',
-        '--targetable--': '--targetable--', // FIXME
         '--untargetable--': '--untargetable--', // FIXME
         'Adds Appear': 'Adds Appear', // FIXME
         'Aether Drain': 'エーテル吸収',
@@ -439,7 +435,6 @@
       },
       'replaceText': {
         '/dance': '/춤',
-        '--targetable--': '--대상 지정 가능--',
         '--untargetable--': '--대상 지정 불가--',
         'Adds Appear': 'Adds Appear', // FIXME
         'Aether Drain': 'エーテル吸収',

@@ -347,7 +347,6 @@
         '--meteors--': '--meteors--', // FIXME
         '--reset--': '--reset--', // FIXME
         '--start--': '--start--', // FIXME
-        '--targetable--': '--anvisierbar--',
         '--untargetable--': '--nich anvisierbar--',
         'Aqua Sphere Adds': 'Aqua Sphere Adds', // FIXME
         'Archaeodemon Adds': 'Archaeodemon Adds', // FIXME
@@ -423,7 +422,6 @@
         '--meteors--': '--meteors--', // FIXME
         '--reset--': '--reset--', // FIXME
         '--start--': '--start--', // FIXME
-        '--targetable--': '--Ciblable--',
         '--untargetable--': '--Impossible à cibler--',
         'Aqua Sphere Adds': 'Aqua Sphere Adds', // FIXME
         'Archaeodemon Adds': 'Archaeodemon Adds', // FIXME
@@ -499,7 +497,6 @@
         '--meteors--': '--meteors--', // FIXME
         '--reset--': '--reset--', // FIXME
         '--start--': '--start--', // FIXME
-        '--targetable--': '--targetable--',
         '--untargetable--': '--untargetable--',
         'Aqua Sphere Adds': 'Aqua Sphere Adds', // FIXME
         'Archaeodemon Adds': 'Archaeodemon Adds', // FIXME
@@ -575,7 +572,6 @@
         '--meteors--': '--meteors--', // FIXME
         '--reset--': '--reset--', // FIXME
         '--start--': '--start--', // FIXME
-        '--targetable--': '--targetable--', // FIXME
         '--untargetable--': '--untargetable--', // FIXME
         'Aqua Sphere Adds': 'Aqua Sphere Adds', // FIXME
         'Archaeodemon Adds': 'Archaeodemon Adds', // FIXME
@@ -650,7 +646,6 @@
         '--knockback--': '--넉백--',
         '--lock out--': '--지역 분리--',
         '--meteors--': '--메테오--',
-        '--targetable--': '--타겟 가능--',
         '--untargetable--': '--타겟 불가능--',
         'Aqua Sphere Adds': '물 구체 생성',
         'Archaeodemon Adds': '원시 악마 생성',
