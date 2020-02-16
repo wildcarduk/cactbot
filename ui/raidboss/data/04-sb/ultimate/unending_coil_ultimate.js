@@ -1938,7 +1938,6 @@
       },
       'replaceText': {
         '--push--': '--stoß--',
-        '--untargetable--': '--nich anvisierbar--',
         'Aetheric Profusion': 'Ätherische Profusion',
         'Akh Morn': 'Akh Morn',
         'Bahamut Marker': 'Bahamut Marker',
@@ -2044,7 +2043,6 @@
       },
       'replaceText': {
         '--push--': '--Poussé(e)--',
-        '--untargetable--': '--Impossible à cibler--',
         'Aetheric Profusion': 'Excès d\'éther',
         'Akh Morn': 'Akh Morn',
         'Bahamut Marker': 'Marqueur de Bahamut',
@@ -2150,7 +2148,6 @@
       },
       'replaceText': {
         '--push--': '--push--', // FIXME
-        '--untargetable--': '--untargetable--',
         'Aetheric Profusion': 'エーテリックプロフュージョン',
         'Akh Morn': 'アク・モーン',
         'Bahamut Marker': 'Bahamut Marker', // FIXME
@@ -2256,7 +2253,6 @@
       },
       'replaceText': {
         '--push--': '--push--', // FIXME
-        '--untargetable--': '--不可选中--',
         'Aetheric Profusion': '以太失控',
         'Akh Morn': '死亡轮回',
         'Bahamut Marker': '巴哈标记',
@@ -2362,7 +2358,6 @@
       },
       'replaceText': {
         '--push--': '--최소 RDPS컷--',
-        '--untargetable--': '--타겟 불가--',
         'Aetheric Profusion': '에테르 홍수',
         'Akh Morn': '아크 몬',
         'Bahamut Marker': '바하무트 징',

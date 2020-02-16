@@ -305,7 +305,6 @@
         'Fleshy Member': 'Tentakel',
       },
       'replaceText': {
-        '--untargetable--': '--nich anvisierbar--',
         '-100 Gs': 'Minus 100 G',
         '(?<!-)100 Gs': '100 G',
         'Antilight': 'Dunkellicht',
@@ -348,7 +347,6 @@
         'Fleshy Member': 'tentacule',
       },
       'replaceText': {
-        '--untargetable--': '--Impossible à cibler--',
         '-100 Gs': 'Gravité -100',
         '(?<!-)100 Gs': 'Gravité 100',
         'Antilight': 'Lumière obscure',
@@ -391,7 +389,6 @@
         'Fleshy Member': '触手',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--',
         '-100 Gs': '重力マイナス100',
         '(?<!-)100 Gs': '重力100',
         'Antilight': '暗黒光',
@@ -434,7 +431,6 @@
         'Fleshy Member': '触手',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--', // FIXME
         '-100 Gs': '重力-100',
         '(?<!-)100 Gs': '重力100',
         'Antilight': '暗黑光',
@@ -477,7 +473,6 @@
         'Fleshy Member': '촉수',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--', // FIXME
         '-100 Gs': '중력 -100',
         '(?<!-)100 Gs': '중력 100',
         'Antilight': '암흑광',

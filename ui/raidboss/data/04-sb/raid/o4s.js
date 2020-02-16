@@ -1044,7 +1044,6 @@
         '--Boss Targetable--': '--Boss Targetable--', // FIXME
         '--Boss Untargetable--': '--Boss Untargetable--', // FIXME
         '--LB Gauge Resets--': '--LB Gauge Resets--', // FIXME
-        '--untargetable--': '--nich anvisierbar--',
         'Aero III': 'Windga',
         'Almagest': 'Almagest',
         'Black Hole': 'Schwarzes Loch',
@@ -1107,7 +1106,6 @@
         '--Boss Targetable--': '--Boss Targetable--', // FIXME
         '--Boss Untargetable--': '--Boss Untargetable--', // FIXME
         '--LB Gauge Resets--': '--LB Gauge Resets--', // FIXME
-        '--untargetable--': '--Impossible à cibler--',
         'Aero III': 'Méga Vent',
         'Almagest': 'Almageste',
         'Black Hole': 'Trou noir',
@@ -1170,7 +1168,6 @@
         '--Boss Targetable--': '--Boss Targetable--', // FIXME
         '--Boss Untargetable--': '--Boss Untargetable--', // FIXME
         '--LB Gauge Resets--': '--LB Gauge Resets--', // FIXME
-        '--untargetable--': '--untargetable--',
         'Aero III': 'エアロガ',
         'Almagest': 'アルマゲスト',
         'Black Hole': 'ブラックホール',
@@ -1233,7 +1230,6 @@
         '--Boss Targetable--': '--Boss Targetable--', // FIXME
         '--Boss Untargetable--': '--Boss Untargetable--', // FIXME
         '--LB Gauge Resets--': '--LB Gauge Resets--', // FIXME
-        '--untargetable--': '--untargetable--', // FIXME
         'Aero III': '暴风',
         'Almagest': '至高无上',
         'Black Hole': '黑洞',
@@ -1296,7 +1292,6 @@
         '--Boss Targetable--': '--Boss Targetable--', // FIXME
         '--Boss Untargetable--': '--Boss Untargetable--', // FIXME
         '--LB Gauge Resets--': '--LB Gauge Resets--', // FIXME
-        '--untargetable--': '--untargetable--', // FIXME
         'Aero III': '에어로가',
         'Almagest': '알마게스트',
         'Black Hole': '블랙홀',

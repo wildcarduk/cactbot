@@ -337,7 +337,6 @@
         'Tsukuyomi': 'Tsukuyomi',
       },
       'replaceText': {
-        '--untargetable--': '--nich anvisierbar--',
         'Antitwilight': 'Schönheit der Nacht',
         'Bright Blade': 'Helle Klinge',
         'Concentrativity': 'Konzentriertheit',
@@ -406,7 +405,6 @@
         'Tsukuyomi': 'Tsukuyomi',
       },
       'replaceText': {
-        '--untargetable--': '--Impossible à cibler--',
         'Antitwilight': 'Belle-de-nuit',
         'Bright Blade': 'Lame blafarde',
         'Concentrativity': 'Kenki concentré',
@@ -475,7 +473,6 @@
         'Tsukuyomi': 'ツクヨミ',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--',
         'Antitwilight': '月下美人',
         'Bright Blade': '月刀左近',
         'Concentrativity': '圧縮剣気',
@@ -544,7 +541,6 @@
         'Tsukuyomi': '月读',
       },
       'replaceText': {
-        '--untargetable--': '--不可选中--',
         'Antitwilight': '月下美人',
         'Bright Blade': '月刀左斩',
         'Concentrativity': '压缩剑气',
@@ -613,7 +609,6 @@
         'Tsukuyomi': '츠쿠요미',
       },
       'replaceText': {
-        '--untargetable--': '--대상 지정 불가--',
         'Antitwilight': '월하미인',
         'Bright Blade': '하현달 베기',
         'Concentrativity': '압축 검기',

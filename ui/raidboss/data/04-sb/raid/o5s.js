@@ -157,7 +157,6 @@
       },
       'replaceText': {
         ' Ghosts': ' Geister',
-        '--untargetable--': '--nich anvisierbar--',
         'Acid Rain': 'Säureregen',
         'Add Wave': 'Add Welle',
         'All In The Mind': 'Psychokinese',
@@ -196,7 +195,6 @@
       },
       'replaceText': {
         ' Ghosts': ' Fantômes',
-        '--untargetable--': '--Impossible à cibler--',
         'Acid Rain': 'Pluie acide',
         'Add Wave': 'Vague d\'Adds',
         'All In The Mind': 'Force de volonté',
@@ -235,7 +233,6 @@
       },
       'replaceText': {
         ' Ghosts': ' Ghosts', // FIXME
-        '--untargetable--': '--untargetable--',
         'Acid Rain': '酸性雨',
         'Add Wave': 'Add Wave', // FIXME
         'All In The Mind': '念力',
@@ -274,7 +271,6 @@
       },
       'replaceText': {
         ' Ghosts': ' Ghosts', // FIXME
-        '--untargetable--': '--untargetable--', // FIXME
         'Acid Rain': '酸雨',
         'Add Wave': 'Add Wave', // FIXME
         'All In The Mind': '念力',
@@ -313,7 +309,6 @@
       },
       'replaceText': {
         ' Ghosts': ' Ghosts', // FIXME
-        '--untargetable--': '--untargetable--', // FIXME
         'Acid Rain': '산성비',
         'Add Wave': 'Add Wave', // FIXME
         'All In The Mind': '염력',

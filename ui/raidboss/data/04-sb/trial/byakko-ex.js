@@ -394,7 +394,6 @@
         'There is no turning back!': 'Mein Jagdtrieb ist erwacht!',
       },
       'replaceText': {
-        '--untargetable--': '--nich anvisierbar--',
         'Answer On High': 'Himmlische Antwort',
         'Aratama': 'Einschlag',
         'Bombogenesis': 'Plötzliches Orkantief',
@@ -453,7 +452,6 @@
         'There is no turning back!': 'Grrraaaah ! ... Trop tard pour les regrets !',
       },
       'replaceText': {
-        '--untargetable--': '--Impossible à cibler--',
         'Answer On High': 'Foudre céleste',
         'Aratama': 'Aratama',
         'Bombogenesis': 'Bombogénèse',
@@ -512,7 +510,6 @@
         'There is no turning back!': 'オオオオオ……この衝動、もはや止められん！',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--',
         'Answer On High': '天つ雷',
         'Aratama': '着弾',
         'Bombogenesis': '爆弾低気圧',
@@ -571,7 +568,6 @@
         'There is no turning back!': '我体内的冲动已无法抑制！',
       },
       'replaceText': {
-        '--untargetable--': '--不可选中--',
         'Answer On High': '天雷',
         'Aratama': '荒弹',
         'Bombogenesis': '炸弹低气压',
@@ -630,7 +626,6 @@
         'There is no turning back!': 'There is no turning back!', // FIXME
       },
       'replaceText': {
-        '--untargetable--': '--대상 지정 불가--',
         'Answer On High': '하늘의 번개',
         'Aratama': '아라미타마 탄환',
         'Bombogenesis': '폭탄 저기압',

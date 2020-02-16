@@ -153,7 +153,6 @@
         'The Storm\'s Grip': 'Sturmgebiet',
       },
       'replaceText': {
-        '--untargetable--': '--nich anvisierbar--',
         'Demonic Howl': 'Dämonisches Heulen',
         'Demonic Pain': 'Dämonischer Schmerz',
         'Demonic Shear': 'Dämonische Schere',
@@ -211,7 +210,6 @@
         'The Storm\'s Grip': 'Emprise de la tempête',
       },
       'replaceText': {
-        '--untargetable--': '--Impossible à cibler--',
         'Demonic Howl': 'Hurlement démoniaque',
         'Demonic Pain': 'Douleur démoniaque',
         'Demonic Shear': 'Cisailles démoniaques',
@@ -269,7 +267,6 @@
         'The Storm\'s Grip': '暴風域',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--',
         'Demonic Howl': 'デモニックハウル',
         'Demonic Pain': 'デモニックペイン',
         'Demonic Shear': 'デモニックシアー',
@@ -327,7 +324,6 @@
         'The Storm\'s Grip': '暴风域',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--', // FIXME
         'Demonic Howl': '恶魔啸',
         'Demonic Pain': '恶魔痛',
         'Demonic Shear': '恶魔斩',
@@ -385,7 +381,6 @@
         'The Storm\'s Grip': '폭풍 영역',
       },
       'replaceText': {
-        '--untargetable--': '--untargetable--', // FIXME
         'Demonic Howl': '악령의 외침',
         'Demonic Pain': '악령의 고통',
         'Demonic Shear': '악령의 참격',
