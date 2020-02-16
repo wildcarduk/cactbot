@@ -324,7 +324,6 @@
       'locale': 'de',
       'replaceSync': {
         'Dancing Fan': 'tanzend(?:e|er|es|en) Fächer',
-        'Engage!': 'Start!',
         'Moondust': 'Mondfragment',
         'Moonlight': 'Mondlicht',
         'Specter(?! )': 'Schemen',
@@ -396,7 +395,6 @@
       'locale': 'fr',
       'replaceSync': {
         'Dancing Fan': 'maiôgi',
-        'Engage!': 'À l\'attaque',
         'Moondust': 'fragment de lune',
         'Moonlight': 'Clair de lune',
         'Specter(?! )': 'spector',
@@ -468,7 +466,6 @@
       'locale': 'ja',
       'replaceSync': {
         'Dancing Fan': '舞扇',
-        'Engage!': '戦闘開始！',
         'Moondust': '月の欠片',
         'Moonlight': '月光',
         'Specter(?! )': 'スペクター',
@@ -540,7 +537,6 @@
       'locale': 'cn',
       'replaceSync': {
         'Dancing Fan': '舞扇',
-        'Engage!': '战斗开始！',
         'Moondust': '月之碎片',
         'Moonlight': '月光',
         'Specter(?! )': '妖影',
@@ -612,7 +608,6 @@
       'locale': 'ko',
       'replaceSync': {
         'Dancing Fan': '춤추는 부채',
-        'Engage!': '전투 시작!',
         'Moondust': '달조각',
         'Moonlight': '월광',
         'Specter(?! )': '그림자요괴',

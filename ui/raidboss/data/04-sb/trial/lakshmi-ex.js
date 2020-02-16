@@ -247,7 +247,6 @@
         'Dreaming Brahmin': 'verträumt(?:e|er|es|en) Brahmin',
         'Dreaming Kshatriya': 'verträumt(?:e|er|es|en) Kshatriya',
         'Dreaming Shudra': 'verträumt(?:e|er|es|en) Shudra',
-        'Engage!': 'Start!',
         'Lakshmi': 'Lakshmi',
       },
       'replaceText': {
@@ -296,7 +295,6 @@
         'Dreaming Brahmin': 'brahmin rêveuse',
         'Dreaming Kshatriya': 'kshatriya rêveuse',
         'Dreaming Shudra': 'shudra rêveuse',
-        'Engage!': 'À l\'attaque',
         'Lakshmi': 'Lakshmi',
       },
       'replaceText': {
@@ -345,7 +343,6 @@
         'Dreaming Brahmin': 'テンパード・ブラフミン',
         'Dreaming Kshatriya': 'テンパード・クシャトリア',
         'Dreaming Shudra': 'テンパード・シュードラ',
-        'Engage!': '戦闘開始！',
         'Lakshmi': 'ラクシュミ',
       },
       'replaceText': {
@@ -394,7 +391,6 @@
         'Dreaming Brahmin': '梦寐的婆罗门',
         'Dreaming Kshatriya': '梦寐的刹帝利',
         'Dreaming Shudra': '梦寐的首陀罗',
-        'Engage!': '战斗开始！',
         'Lakshmi': '吉祥天女',
       },
       'replaceText': {
@@ -443,7 +439,6 @@
         'Dreaming Brahmin': '신도화된 브라만',
         'Dreaming Kshatriya': '신도화된 크샤트리아',
         'Dreaming Shudra': '신도화된 수드라',
-        'Engage!': '전투 시작!',
         'Lakshmi': '락슈미',
       },
       'replaceText': {

@@ -302,7 +302,6 @@
       'locale': 'de',
       'replaceSync': {
         'Catastrophe': 'Katastroph',
-        'Engage!': 'Start!',
         'Fleshy Member': 'Tentakel',
       },
       'replaceText': {
@@ -348,7 +347,6 @@
       'locale': 'fr',
       'replaceSync': {
         'Catastrophe': 'Catastrophe',
-        'Engage!': 'À l\'attaque',
         'Fleshy Member': 'tentacule',
       },
       'replaceText': {
@@ -394,7 +392,6 @@
       'locale': 'ja',
       'replaceSync': {
         'Catastrophe': 'カタストロフィー',
-        'Engage!': '戦闘開始！',
         'Fleshy Member': '触手',
       },
       'replaceText': {
@@ -440,7 +437,6 @@
       'locale': 'cn',
       'replaceSync': {
         'Catastrophe': '灾变者',
-        'Engage!': '战斗开始！',
         'Fleshy Member': '触手',
       },
       'replaceText': {
@@ -486,7 +482,6 @@
       'locale': 'ko',
       'replaceSync': {
         'Catastrophe': '카타스트로피',
-        'Engage!': '전투 시작!',
         'Fleshy Member': '촉수',
       },
       'replaceText': {
