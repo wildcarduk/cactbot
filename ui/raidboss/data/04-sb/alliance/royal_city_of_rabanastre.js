@@ -461,6 +461,7 @@
     },
     {
       'locale': 'ja',
+      'missingTranslations': true,
       'replaceSync': {
         'Archaeodemon': 'アルケオデーモン',
         'command tower': '支配の塔',
@@ -531,6 +532,7 @@
     },
     {
       'locale': 'cn',
+      'missingTranslations': true,
       'replaceSync': {
         'Archaeodemon': '古恶魔',
         'command tower': '支配之塔',
@@ -601,6 +603,7 @@
     },
     {
       'locale': 'ko',
+      'missingTranslations': true,
       'replaceSync': {
         'Archaeodemon': '원시 악마',
         'command tower': '지배의 탑',
